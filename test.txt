@@ -39,3 +39,39 @@ phone: "+91-44770000"
 domains: Object
 total: 0
 domains: Array
+
+ip: "157.41.100.243"
+city: "Bhubaneshwar"
+region: "Odisha"
+country: "IN"
+loc: "20.2724,85.8338"
+org: "AS55836 Reliance Jio Infocomm Limited"
+postal: "752115"
+timezone: "Asia/Kolkata"
+asn: Object
+asn: "AS55836"
+name: "Reliance Jio Infocomm Limited"
+domain: "jio.com"
+route: "157.41.0.0/16"
+type: "isp"
+company: Object
+name: "Reliance Jio Infocomm Limited"
+domain: "jio.com"
+type: "isp"
+privacy: Object
+vpn: false
+proxy: false
+tor: false
+relay: false
+hosting: false
+service: ""
+abuse: Object
+address: "Reliance JIO INFOCOMM LTD GHANSOLI INDIA"
+country: "IN"
+email: "ip.abuse@ril.com"
+name: "Reliance Jio Infocomm Limited"
+network: "157.32.0.0/12"
+phone: "+91-44770000"
+domains: Object
+total: 0
+domains: Array
