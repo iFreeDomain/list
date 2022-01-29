@@ -1,0 +1,41 @@
+49.36.216.214:50257
+
+ip: "49.36.216.214"
+city: "Dehra Dūn"
+region: "Uttarakhand"
+country: "IN"
+loc: "30.3244,78.0339"
+org: "AS55836 Reliance Jio Infocomm Limited"
+postal: "248001"
+timezone: "Asia/Kolkata"
+asn: Object
+asn: "AS55836"
+name: "Reliance Jio Infocomm Limited"
+domain: "jio.com"
+route: "49.36.128.0/17"
+type: "isp"
+company: Object
+name: "Reliance Jio Infocomm Limited"
+domain: "jio.com"
+type: "isp"
+carrier: Object
+name: "AirTel"
+mcc: "404"
+mnc: "2"
+privacy: Object
+vpn: false
+proxy: false
+tor: false
+relay: false
+hosting: false
+service: ""
+abuse: Object
+address: "Reliance JIO INFOCOMM LTD GHANSOLI INDIA"
+country: "IN"
+email: "ip.abuse@ril.com"
+name: "Reliance Jio Infocomm Limited"
+network: "49.32.0.0/12"
+phone: "+91-44770000"
+domains: Object
+total: 0
+domains: Array
